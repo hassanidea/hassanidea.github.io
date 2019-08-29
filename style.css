@@ -1,0 +1,78 @@
+html{
+			scroll-behavior: smooth;
+		}
+
+		body{
+			position: relative;
+
+		}
+
+		#jumbotron{
+			margin-top: 40px;
+			margin-bottom: 0px;
+		}
+
+		#header{
+			padding: 0px 30px;
+		}
+
+		#sing{
+			height: 400px;
+			width: 302px;
+		}
+		
+		#first{
+			background-color: #f2f2f2;			
+		}
+
+		#passion{
+			text-align: center;
+			margin-bottom: 50px;
+			padding-top: 60px; 
+		}
+
+		#myproject{
+			text-align: center;
+			margin-bottom: 50px;
+			padding-top: 75px; 
+		}
+
+		#projects{
+			height: 400px;
+		}
+		
+		.img{
+			height: 300px;
+			
+		}
+
+		#carousel{
+			height: 600px;
+			width: 331px;
+		}
+
+		#projec{
+			background-color: #f2f2f2;
+			text-align: center;
+		}
+
+		#resume{
+			padding: 20px;
+			height: 350px;
+		}
+
+		#resume-button{
+			
+		}
+		
+
+		#row2{
+			margin-top:20px;
+			padding-bottom: 40px;
+			
+		}
+		
+		#contact{
+			text-align: center;
+			height: 350px;
+		}
